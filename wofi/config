@@ -1,0 +1,5 @@
+mode=drun
+allow_images=true
+width=30%
+image_size=20
+key_expand=Right 
